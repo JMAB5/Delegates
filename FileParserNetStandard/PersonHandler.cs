@@ -7,8 +7,8 @@ using ObjectLibrary;
 
 namespace FileParserNetStandard {
     ///
-   // public class Person { }  // temporary class delet this when Person is referenced from dll
-   // 
+   /// public class Person { }  // temporary class delet this when Person is referenced from dll
+   /// 
 
 
 
